@@ -1,19 +1,9 @@
-Size : 9
-1 2 3 4 5 6 7 8 9 
-1 22 3 4 55 6 7 8 9 
-Using back() function : 9
-Using size() function : 9
-Using pointer end() function : 9
-
-Using index access : 1
-Using pointer begin() function : 1
-
-1 22 3 4 55 6 7 
-1 22 3 4 55 6 7 
-1 22 3 4 55 6 7 
-1 22 3 4 55 6 7 
-1 22 3 4 55 6 7 
-1 22 3 4 55 6 7 
-7 6 55 4 3 22 1 
-7 6 55 4 3 22 1 
-7 6 55 4 3 22 1 
+ABCDEFGHIJ
+JIHGFEDCBA
+EDCBAFGHIJ
+ABCDEFGHIJ
+JIHGFEDCBA
+JIHGFEDCBA
+JIHGFEDCBA
+ABCEFGHIJ
+!!dlroW olleH
